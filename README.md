@@ -13,11 +13,11 @@
 ##
 <h3> Optional: Intro to Webscraping </h3>
 <ul> 
-   <li> Intro to Webscraping using BeautifulSoup </li> 
+   <li> 01.Intro to Webscraping using BeautifulSoup </li> 
 </ul>
 
 <h3> Final Project: Analyzing Stock Performance and Building a Dashboard </h3>
 <ul> 
-   <li> Extracting Stock Data Using a Python Library </li> 
-   <li> Extracting Stock Data using Web Scraping </li> 
-   <li> Final Assessment: Analyzing Historical Stock/Revenue Data and Building a Dashboard </li>
+   <li> 02.Extracting Stock Data Using a Python Library </li> 
+   <li> 03.Extracting Stock Data using Web Scraping </li> 
+   <li> 04.Final Assessment: Analyzing Historical Stock/Revenue Data and Building a Dashboard </li>
