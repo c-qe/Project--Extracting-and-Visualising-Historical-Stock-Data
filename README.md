@@ -7,7 +7,7 @@
 - <b>Reading:</b> Intro to Webscraping 
 - <b>Video:</b> HTML to Webscraping 
 - <b>Video:</b> Webscraping 
-- [Juypter Workbook](https://www.google.com) - Intro to Web Scraping Using BeautifulSoup
+- [Juypter Notebook](https://www.google.com) - Intro to Web Scraping Using BeautifulSoup
 
 ### Week 1: Final Project - Analyzing Stock Performance and Building a Dashboard
 - <b>Reading:</b> Project Overview 
