@@ -10,8 +10,8 @@
 - [Juypter Workbook](https://www.google.com) - Intro to Web Scraping Using BeautifulSoup
 
 ### Week 1: Final Project - Analyzing Stock Performance and Building a Dashboard
-- Reading: Project Overview 
-- Reading: Stock Shares 
+- <b>Reading:</b> Project Overview 
+- <b>Reading:</b> Stock Shares 
 - [Juypter Notebook](https://www.google.com) - Extracting Stock Data Using a Python Library
 - <b>Quiz:</b> Extracting Stock Data Using a Python Library 
 - <b>Optional:</b> Gamestop Stock vs Tesla
