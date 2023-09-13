@@ -1,5 +1,5 @@
 <div class='title' align="center">
-    <h2>Project:Extracting and Visualising Historical Stock Data</h2>
+    <h2>Project: Extracting and Visualising Historical Stock Data</h2>
 </div>
 
 ## Overview
