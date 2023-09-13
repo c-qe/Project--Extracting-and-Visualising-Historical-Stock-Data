@@ -1,22 +1,31 @@
-<div align="center">
-    <h3>IBM Skills Network - Python Project for Data Science</h3>
-        <img src="/Python_Project_for_Data_Science.png" alt="Badge" style="width:23%">
+<div class='title' align="center">
+    <h2>Project:Extracting and Visualising Historical Stock Data</h2>
 </div>
 
-### <sub><sup>[Optional]</sup></sub> Week 1: Intro to Webscraping
-- `1.1 - Reading` - Intro to Webscraping 
-- `1.2 - Video` - HTML to Webscraping 
-- `1.3 - Video` - Webscraping 
-- `1.4 - Jupyter Notebook` - Intro to Web Scraping Using BeautifulSoup
+## Overview
+As a skilled Data Scientist/Data Analyst, you've been brought on board at a burgeoning investment startup. Your primary responsibility is to wield your expertise in extracting financial data, including historical share prices and quarterly revenue reports, from diverse sources. This data will be sourced from popular stocks such as Tesla, Amazon, AMD, and GameStop. Subsequently, you'll craft an interactive dashboard that will empower investors to discern patterns and trends, thereby aiding them in making informed investment decisions.
 
-### Week 1: Final Project - Analyzing Stock Performance and Building a Dashboard
-- `1.5 - Reading` - Project Overview 
-- `1.6 - Video` - Stock Shares 
-- `1.7 - Jupyter Notebook` - Extracting Stock Data Using a Python Library
-- `1.8 - Quiz` - Extracting Stock Data Using a Python Library 
-- `1.9 - Jupyter Notebook` - Gamestop Stock vs Tesla
-- `1.10 - Hands-On Lab` - Obtain an IBM Cloud Feature Code 
-- `1.11 - Hands-On Lab` - Create IBM Cloud Account and Watson Studio Instance
-- `1.12 - Hands-On Lab` - Add Notebook to Watson Studio
-- `1.13 - Jupyter Notebook` - Peer-Graded Assignment: Analyzing Historical Stock/Revenue Data and Building a Dashboard 
+## Project Phases
+**Phase 1: Data Extraction with yFinance** 
+- *Objective: Obtain quartely revenue data for Tesla and GameStop through web scraping.*
+- **Task:** Using `yfinance` to fetch historical stock data for Tesla and GameStop within the desired timefrmame (May 2014 - May 2015).
 
+**Phase 2: Web Scraping for Revenue Data** 
+- *Objective: Obtain quarterly revenue data for Tesla and GameStop through web scraping.*
+- **Task:** Apply web scraping to collect GameStop's quartely revenue data.
+
+**Phase 3: Data Integration and Cleaning**
+- *Objective: Combine the stock data (from `yfinance`) and revenue data (from web scraping) into a unified dataset.*
+- **Task:** Perform data cleaning tasks like handling missing values, ensuring consistent formats, and removing duplicates. 
+
+**Phase 4: Plotting Tesla Stock Data**
+- *Objective: Visualize Tesla's stock performance over the specified time period.*
+- **Task:** Incorporate labels, titles, and other necessary elements for clear visualization.
+
+**Phase 5: Plotting GameStop Stock Data** 
+- *Objective: Visualize GameStop's stock performance over the specified time period.*
+- **Task:** Include appropriate annotations, labels, and titles for effective visualisation.
+
+**Phase 6: Analysis and Reporting** 
+- *Objective: Draw insights from the visualized data and prepare a comprehensive report.*
+- **Task:** Compile findings into a detailed report with clear explanations and visual evidence.
